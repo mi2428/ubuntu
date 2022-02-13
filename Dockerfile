@@ -11,8 +11,10 @@ RUN apt-get update \
       arpwatch \
       build-essential \
       dnsutils \
+      glances \
       golang \
       hping3 \
+      htop \
       httpie  \
       iperf3 \
       iputils-ping \
