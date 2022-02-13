@@ -20,6 +20,7 @@ RUN apt-get update \
       iputils-ping \
       knot-dnsutils \
       ldnsutils \
+      less \
       mtr \
       net-tools \
       netcat \
