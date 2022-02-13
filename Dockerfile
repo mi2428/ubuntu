@@ -27,4 +27,5 @@ RUN apt-get update \
       openssh-client \
       tcpdump \
       telnet \
+      tig \
  && apt-get clean
