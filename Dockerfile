@@ -1,4 +1,4 @@
-FROM mi2428/dotfiles:latest
+FROM ghcr.io/mi2428/dotfiles:latest
 LABEL maintainer "mi2428 <sh@mi2428.io>"
 LABEL org.opencontainers.image.source https://github.com/mi2428/ubuntu
 
