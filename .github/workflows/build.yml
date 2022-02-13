@@ -4,7 +4,7 @@ name: GitHub CI/CD
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths-ignore:
       - '**.md'
 
