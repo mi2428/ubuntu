@@ -30,4 +30,5 @@ RUN apt-get update \
       tcpdump \
       telnet \
       tig \
+      tree \
  && apt-get clean
