@@ -11,6 +11,7 @@ RUN apt-get update \
       arpwatch \
       build-essential \
       dnsutils \
+      file \
       glances \
       golang \
       hping3 \
