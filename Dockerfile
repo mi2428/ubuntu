@@ -11,6 +11,8 @@ RUN apt-get update \
       arpwatch \
       build-essential \
       dnsutils \
+      docker-compose \
+      docker.io \
       golang \
       hping3 \
       httpie  \
