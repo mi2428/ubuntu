@@ -11,17 +11,13 @@ RUN apt-get update \
       arpwatch \
       build-essential \
       dnsutils \
-      file \
-      glances \
       golang \
       hping3 \
-      htop \
       httpie  \
       iperf3 \
       iputils-ping \
       knot-dnsutils \
       ldnsutils \
-      less \
       mtr \
       net-tools \
       netcat \
@@ -29,6 +25,4 @@ RUN apt-get update \
       openssh-client \
       tcpdump \
       telnet \
-      tig \
-      tree \
  && apt-get clean
