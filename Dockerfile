@@ -9,6 +9,7 @@ RUN apt-get update \
       arp-scan \
       arping \
       arpwatch \
+      asciinema \
       build-essential \
       dnsutils \
       docker-compose \
