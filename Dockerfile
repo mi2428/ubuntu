@@ -19,6 +19,7 @@ RUN apt-get update \
       httpie  \
       iperf3 \
       iputils-ping \
+      jq \
       knot-dnsutils \
       ldnsutils \
       mtr \
