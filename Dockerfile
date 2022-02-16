@@ -27,6 +27,7 @@ RUN apt-get update \
       netcat \
       nmap \
       openssh-client \
+      psmisc \
       tcpdump \
       telnet \
       wget \
