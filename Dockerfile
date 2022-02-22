@@ -32,3 +32,7 @@ RUN apt-get update \
       telnet \
       wget \
  && apt-get clean
+
+RUN pip3 install -U pipenv
+RUN git clone --depth 1 https://github.com/upa/deadman /usr/local/src/deadman \
+ && ln -snf /usr/local/src/deadman/deadman /usr/local/bin/deadman
