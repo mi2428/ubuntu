@@ -31,6 +31,7 @@ RUN apt-get update \
       tcpdump \
       telnet \
       wget \
+      zip \
  && apt-get clean
 
 RUN pip3 install -U pipenv
